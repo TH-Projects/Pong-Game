@@ -1,0 +1,7 @@
+bin/
+Debug/
+Release/
+.vs/
+obj/
+Properties/
+Resources/
